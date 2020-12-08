@@ -1,0 +1,12 @@
+C:\Projects\EFKBlazorP2\Shared\bin\Debug\net5.0\EFKBlazorP2.Shared.deps.json
+C:\Projects\EFKBlazorP2\Shared\bin\Debug\net5.0\EFKBlazorP2.Shared.dll
+C:\Projects\EFKBlazorP2\Shared\bin\Debug\net5.0\ref\EFKBlazorP2.Shared.dll
+C:\Projects\EFKBlazorP2\Shared\bin\Debug\net5.0\EFKBlazorP2.Shared.pdb
+C:\Projects\EFKBlazorP2\Shared\obj\Debug\net5.0\EFKBlazorP2.Shared.csprojAssemblyReference.cache
+C:\Projects\EFKBlazorP2\Shared\obj\Debug\net5.0\EFKBlazorP2.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\EFKBlazorP2\Shared\obj\Debug\net5.0\EFKBlazorP2.Shared.AssemblyInfoInputs.cache
+C:\Projects\EFKBlazorP2\Shared\obj\Debug\net5.0\EFKBlazorP2.Shared.AssemblyInfo.cs
+C:\Projects\EFKBlazorP2\Shared\obj\Debug\net5.0\EFKBlazorP2.Shared.csproj.CoreCompileInputs.cache
+C:\Projects\EFKBlazorP2\Shared\obj\Debug\net5.0\EFKBlazorP2.Shared.dll
+C:\Projects\EFKBlazorP2\Shared\obj\Debug\net5.0\ref\EFKBlazorP2.Shared.dll
+C:\Projects\EFKBlazorP2\Shared\obj\Debug\net5.0\EFKBlazorP2.Shared.pdb
