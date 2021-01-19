@@ -110,6 +110,13 @@ using EFKBlazorP2.Shared;
 #line default
 #line hidden
 #nullable disable
+#nullable restore
+#line 5 "C:\Projects\EFKBlazorP2\Client\Pages\FetchData.razor"
+using EFKBlazorP2.Client.Components;
+
+#line default
+#line hidden
+#nullable disable
     [Microsoft.AspNetCore.Components.RouteAttribute("/fetchdata")]
     public partial class FetchData : Microsoft.AspNetCore.Components.ComponentBase
     {

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Net.Http;
 using System.Text;
 using System.Threading.Tasks;
+using EFKBlazorP2.Client.Services;
 using Microsoft.AspNetCore.Components.WebAssembly.Authentication;
 using Microsoft.AspNetCore.Components.WebAssembly.Hosting;
 using Microsoft.Extensions.Configuration;
@@ -26,6 +27,7 @@ namespace EFKBlazorP2.Client
 
             builder.Services.AddApiAuthorization();
 
+            builder.Services.AddSingleton<IStateService, StateService>();
             await builder.Build().RunAsync();
         }
     }

@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "cDdMpERRTKTx5cKqBYGggmLQltxWNDQSNjaI7g1BmbQeI+zuTnct4Kxuquu3L7ADI5j1Q0dBbjdL8iuRasD4fQ==",
+  "dgSpecHash": "CmwypB9GxsWZrPXFe1k29GXr7b3ZST5Y631I0P6+Mh75uumQzoFh2amVXWTHCqlJ2aLAOOqBCBllgZt1AvlEuQ==",
   "success": true,
   "projectFilePath": "C:\\Projects\\EFKBlazorP2\\Client\\EFKBlazorP2.Client.csproj",
   "expectedPackageFiles": [
@@ -33,7 +33,7 @@
     "C:\\Users\\geir.sigurdsson\\.nuget\\packages\\microsoft.jsinterop.webassembly\\5.0.0\\microsoft.jsinterop.webassembly.5.0.0.nupkg.sha512",
     "C:\\Users\\geir.sigurdsson\\.nuget\\packages\\system.io.pipelines\\5.0.0\\system.io.pipelines.5.0.0.nupkg.sha512",
     "C:\\Users\\geir.sigurdsson\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\geir.sigurdsson\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.0\\microsoft.netcore.app.runtime.browser-wasm.5.0.0.nupkg.sha512"
+    "C:\\Users\\geir.sigurdsson\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.2\\microsoft.netcore.app.runtime.browser-wasm.5.0.2.nupkg.sha512"
   ],
   "logs": []
 }

@@ -100,16 +100,16 @@ using EFKBlazorP2.Client.Shared;
 #nullable restore
 #line 9 "C:\Projects\EFKBlazorP2\Client\Pages\Counter.razor"
        
-    private int currentCount = 0;
 
     private void IncrementCount()
     {
-        currentCount++;
+        state.Counter++;
     }
 
 #line default
 #line hidden
 #nullable disable
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private Services.IStateService state { get; set; }
     }
 }
 #pragma warning restore 1591

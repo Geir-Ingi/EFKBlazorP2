@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30717.126
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFKBlazorP2.Server", "Server\EFKBlazorP2.Server.csproj", "{9D49E509-1864-4491-AAD6-F105064136B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFKBlazorP2.Server", "Server\EFKBlazorP2.Server.csproj", "{9D49E509-1864-4491-AAD6-F105064136B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFKBlazorP2.Client", "Client\EFKBlazorP2.Client.csproj", "{E0C677AC-3DAB-457F-940A-EABA56DE3AE3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFKBlazorP2.Client", "Client\EFKBlazorP2.Client.csproj", "{E0C677AC-3DAB-457F-940A-EABA56DE3AE3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFKBlazorP2.Shared", "Shared\EFKBlazorP2.Shared.csproj", "{565E7BE2-DBC0-4C2E-AA09-62907FF536D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EFKBlazorP2.Shared", "Shared\EFKBlazorP2.Shared.csproj", "{565E7BE2-DBC0-4C2E-AA09-62907FF536D3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
